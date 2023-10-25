@@ -3,7 +3,7 @@ The main objective of the Project on Travel Website is to manage the details of 
 
 #  To Visit the Website  [Click here](http://98.70.41.113/) 
 
-# To Visit Project Demo Video [Click here](https://www.youtube.com/watch?v=rHUFLaiPMqc&ab_channel=MortaL/)
+# To Visit Project Demo Video [Click here](https://youtu.be/UqVu0K8JunE)
 
 ## This are the few Screenshot of our project
 ![Screenshot (213)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/e1cfb93c-314c-435a-98b2-d4c9a52f3873)
