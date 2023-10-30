@@ -6,6 +6,14 @@ The main objective of the Project on Travel Website is to manage the details of 
 # To Visit Project Demo Video [Click here](https://youtu.be/UqVu0K8JunE)
 
 ## This are the few Screenshot of our project
+
+![Screenshot (1296)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/1e79a25e-3b64-4966-b49a-e5f71324c067)
+![Screenshot (1297)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/77445bd7-426e-496d-86f5-790545f8d5e5)
+![Screenshot (1298)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/ba5203a3-7d9a-423a-83d2-7ad63030ead8)
+![Screenshot (1299)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/ef07be55-18d3-465f-badf-0e63c8f57a95)
+![Screenshot (1300)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/2d206aca-ae69-454c-998d-0e3edb8cfc68)
+![Screenshot (1301)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/b3873c85-cd65-4752-9489-d6091adff9e5)
+![Screenshot (1302)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/726a695e-dfdf-4398-9ad2-2311ae782a8f)
 ![Screenshot (1289)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/01286263-1e09-4fd0-92e4-3731e9a8c343)
 ![Screenshot (1290)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/9bcf25ac-6458-43e5-b600-37dd5e0c2b51)
 ![Screenshot (1291)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/5860756e-cb2f-429e-bf37-c72325adfdcc)
