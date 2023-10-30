@@ -1,7 +1,7 @@
 # Universal Travel Website
 The main objective of the Project on Travel Website is to manage the details of Travel, Tour, Agent, Hotel, Facility. It manages all the information about Travel, Customer, Facility. Travel. The project is totally built at administrative end and thus only the administrator is guaranteed access. The purpose of the project is to build an application program to reduce the manual work for managing the Travel, Tour, Customer, Agent. It tracks all the details about the Agent, Hotel, Facility.
 
-#  To Visit the Website  [Click here](http://98.70.41.113/) 
+#  To Visit the Website  [Click here](http://98.70.48.123/)
 
 # To Visit Project Demo Video [Click here](https://youtu.be/UqVu0K8JunE)
 
