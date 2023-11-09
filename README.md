@@ -8,8 +8,8 @@ The main objective of the Project on Travel Website is to manage the details of 
 ## This are the few Screenshot of our project
 
 ![Screenshot (1296)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/1e79a25e-3b64-4966-b49a-e5f71324c067)
-![Screenshot (1297)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/77445bd7-426e-496d-86f5-790545f8d5e5)
-![Screenshot (1298)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/ba5203a3-7d9a-423a-83d2-7ad63030ead8)
+![Screenshot (222)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/2b9aa311-2c3b-4255-b655-002e46245504)
+![Screenshot (223)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/85b3d344-fdf7-42e2-8d43-7beace455790)
 ![Screenshot (1299)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/ef07be55-18d3-465f-badf-0e63c8f57a95)
 ![Screenshot (1300)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/2d206aca-ae69-454c-998d-0e3edb8cfc68)
 ![Screenshot (1301)](https://github.com/ShubhamShinde22/FRT--Travel_Agency/assets/94630914/b3873c85-cd65-4752-9489-d6091adff9e5)
